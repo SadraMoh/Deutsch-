@@ -1,6 +1,15 @@
-## **Redewendungen**
+# **Redewendungen**
 
 ### Hier befinden sich sinnvolle Redewenungen die ich je gelernt habe
+
+## Inhalt
+
+- [`Wildkarten`](#Wildkarten)
+- [`Gemeinsame redewendungen  `](#gemeinsame-redewendungen)
+
+<br>
+
+## Wildkarten
 
 <br>
 
@@ -66,3 +75,45 @@ Ich schwöre dir
 
 `An die Schranke weisen`  
 Jemandem sein gränzen zeigen
+
+<br>
+
+`Es stammt aus Adam und Eva!`
+Es ist sehr alt, es ist antique
+
+<br>
+
+`Eine Schwalbe macht noch keinen Sommer`
+Ein einzelnes positives Anzeichnen ist noch nicht genug um davon ableiten dass die ganze Situation besser wird
+
+<br>
+
+`Wer lügt der stiehlt`  
+Wer lügt der ist bereit irgendwelche Dinge zu stehlen   
+
+<br>
+
+`Geld stinkt nicht`  
+Verwendet um auszudrücken dass die Quelle vom Geld seine Werte nicht verdorbt
+
+<br>
+
+`Hochmut kommt vor dem Fall`  
+der der zu selbstbewusst ist wird versagen
+
+### Gemeinsame redewendungen  
+
+<br>
+
+`Gott bewahre!`  
+Lass Gott es nicht passieren
+
+<br>
+
+`Gott hab ihn selig`
+Verwendet um über jemanden der tod ist sprechen
+
+<br>
+
+`Niemand sitzt am höchsten`
+

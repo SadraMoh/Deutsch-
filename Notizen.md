@@ -10,10 +10,10 @@
 
 ### **Wie man Verben zu imperativ macht**
 
-per du
+für **du**
 > Korrigieren -> ~~st~~ -> ~~umlaut~~ -> ~~du~~
 
-per ihr
+für **ihr**
 > Korrigieren -> ~~ihr~~
 
 <br>
@@ -62,3 +62,8 @@ Man kann aus adjektive Verben machen
 
 <br>
 
+Das Feste `auf` kommt normalerweise mit Akkusativ
+
+**Beispiele**
+- Ich habe stundeland `auf` ihn gewartet
+- Ich verlasse `auf` dich, entäuch mich nicht

@@ -1,11 +1,17 @@
 # **Verben**
 
-### Hier sind Verben die ich gelernt habe sind hier gespeichert.
+### Verben die ich gelernt habe sind hier gespeichert.
 
 ## Inhalt
 
+- [`Aggressive Verben`](#aggressive-verben)
 - [`Verben mit festen Präpositionen`](#verben-mit-festen-präpositionen)
 
+## Aggressive Verben
+
+übertreiben 
+
+überreden
 
 ## Verben mit festen Präpositionen 
 
@@ -117,4 +123,97 @@ sich interessieren (für)
 
 kommen (zu)
 
+lachen (über)
+
+leiden (an)
+
+leiden (unter)
+
+nachdenken (über)
+
+protestieren (gegen)
+
+rechnent (mit)
+
+verlassen (auf)
+
+reden (über, von)
+
+riechen (nach)
+
+sagen (über)
+
+sagen (zu)
+
+sehen (von)
+
+schicken (an)
+
+schicken (zu)
+
+schimpfen (über)
+
+schmecken (nach)
+
+sein (für)
+
+sein (gegen)
+
+sorgen (für)
+
+sprechen (mit)
+
+sprechen (über)
+
+sterben (an)
+
+streiten (über)
+
+streiten (mit)
+
+telefonieren (mit)
+
+sich treffen (mit, zu)
+
+sich trennen (von)
+
+sich überzeugen (von)
+
+sich unterscheiden (von)
+
+sich verabreden (mit)
+
+teilnehmen (an)
+
+sich verlassen (auf)
+
+verlieben (in)
+
+vergleichen (mit)
+
+sich verabschieden (von)
+
+vergessen (auf)
+
+sich verstehen (mit)
+
+sich vorstellen (unter)
+
+sich vorbereiten (auf)
+
+warnen (vor)
+
+warten (auf)
+
+werden (zu)
+
+wissen (von)
+
+sich wundern (über)
+
+zu schauen (bei)
+
+zusehen (bei)
+
+zweifeln (an)
 
