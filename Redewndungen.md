@@ -117,3 +117,69 @@ Verwendet um über jemanden der tod ist sprechen
 
 `Niemand sitzt am höchsten`
 
+<br>
+
+`Morgends stund hat geld im Mund`
+Wer früh am morgen aufsteht der wird erfölgreich
+
+<br>
+
+`in ohnmacht fallen`
+Die begeisterte Befolgerinen der Band fallen in Ohnmacht wenn sie ihn sehen
+
+<br>
+
+`An der Nadel hängen`
+Der Schauspieler hängt von der Nadel
+
+<br>
+
+`In Adams Kostum sein`
+Ganz nackt sein
+
+<br>
+
+`Von Nack bis Hacke`
+Der Ganze körper
+
+<br>
+
+`An der Nagel hängen`
+Aufgeben etwas zu tun
+
+<br>
+
+`Ein Nagel zu jemandes Sarg sein`
+Jemanden ständig stören
+
+<br>
+
+`Aus eines Mücke einen Elefanten machen`
+
+<br>
+
+`(ach) du kriegst die Motte`
+Die Lage war schon schlecht/schwer, aber nun ist etwas passiert und es is noch schlimmer
+
+<br>
+
+`Ein Angel/Teufel in Menchengestalt sein`
+
+<br>
+
+`April April`  
+Wir schätzen nur
+
+<br>
+
+`Zu guter letzt`
+Schlißlich, am Ende
+
+<br>
+
+`nicht aus Holz sein`
+gefühlen haben
+- Ich bin doch nicht aus Holz! 
+
+<br>
+
