@@ -2,6 +2,11 @@
 
 ### Hier befinden sich sinnvolle Redewenungen die ich je gelernt habe
 
+## Begriffsklärung von den Terme Sprichwort und Redewendung  / ausdrücke
+
+Mit `Redewendungen` und `ausdrücken` kann man Teile vom Satz reltiv zu dem Kontext ändern
+`Sprichworte` sagt man wie sie sind  
+
 ## Inhalt
 
 - [`Wildkarten`](#Wildkarten)
@@ -58,18 +63,8 @@ Hauptsache
 
 <br>
 
-`Ein Esel schimpft den anderen über das lange Ohr`  
-Sich bei jemandem über sein Problem beschweren während es dasselbe Problem bei dir gibt
-
-<br>
-
 `Der flotte Otto`  
 Durchfall
-
-<br>
-
-`Adel verpflichtet`  
-Ich schwöre dir
 
 <br>
 
@@ -80,26 +75,6 @@ Jemandem sein gränzen zeigen
 
 `Es stammt aus Adam und Eva!`
 Es ist sehr alt, es ist antique
-
-<br>
-
-`Eine Schwalbe macht noch keinen Sommer`
-Ein einzelnes positives Anzeichnen ist noch nicht genug um davon ableiten dass die ganze Situation besser wird
-
-<br>
-
-`Wer lügt der stiehlt`  
-Wer lügt der ist bereit irgendwelche Dinge zu stehlen   
-
-<br>
-
-`Geld stinkt nicht`  
-Verwendet um auszudrücken dass die Quelle vom Geld seine Werte nicht verdorbt
-
-<br>
-
-`Hochmut kommt vor dem Fall`  
-der der zu selbstbewusst ist wird versagen
 
 ### Gemeinsame redewendungen  
 
@@ -113,7 +88,6 @@ Lass Gott es nicht passieren
 `Gott hab ihn selig`
 Verwendet um über jemanden der tod ist sprechen
 
-<br>
 
-`Niemand sitzt am höchsten`
+
 
