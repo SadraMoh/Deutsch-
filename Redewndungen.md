@@ -88,9 +88,6 @@ Lass Gott es nicht passieren
 `Gott hab ihn selig`
 Verwendet um über jemanden der tod ist sprechen
 
-
-
-
 <br>
 
 `Morgends stund hat geld im Mund`
@@ -151,9 +148,102 @@ Schlißlich, am Ende
 
 <br>
 
-`nicht aus Holz sein`
+`Nicht aus Holz sein`
 gefühlen haben
 - Ich bin doch nicht aus Holz! 
 
 <br>
+
+`Noch gut zu wege sein`
+noch rüstig sein
+- Obwohl seine mutter war schon über 80, sie war noch gut zu wege.
+
+<br>
+
+`Sich keinen zwang ang tun`
+sich ungezwungen verhalten
+- Darf ich meine Jacke ausziehen? > Ja tu doch dir keinen zwang
+
+<br>
+
+`auf die Zwölf`
+auf den kopf
+
+<br>
+
+`jemandes zwerchfell massieren`
+jemanden zu lachen bringen
+
+<br>
+
+`wie kein zweiter`
+unnachahmlich [gut , schnell]
+- Matte Probleme löst er wie kein zweiter
+
+<br>
+
+`Offen zu tage liegen` 
+deutlich erkennbar sein
+
+<br>
+
+`Zustände wie im alten Rom`
+unmögliche , unhaltbare zustände
+
+<br>
+
+`Das ist [doch] kein zustand!`
+das muss geändert werden, das kan nicht so bleiben
+
+<br>
+
+`zusammenpassen wie Tof und Deckel`
+`zusammenpassen wie ein paar/ zwei alte Latschen`
+
+<br>
+
+`zusammen klappen wie ein Taschenmesser`
+in Ohnmacht fallen aus schwäre zu Boden fallen
+
+<br>
+
+`dann / sonnst kannst du dich zusammenfegen`
+eine bedrohung von Prügel
+
+<br>
+
+`mit jemandem Zurande Kommen`
+mit jemandem aus kommen, sich mit jemandem einig werden
+
+<br>
+
+`jemanden die Zunge lösen / lockern`
+jemanden gesprächig machen
+- Zwei, Drei Hundert Euroscheinen würde hir die zunge Lösen 
+
+<br>
+
+`jemandem klebt die Zung am Gaumen`
+`jemandem h1ng die Zunge zum Hals[e] heraus`
+jemand hat großen durst
+- Nach zwei Stunden Training hing uns allen die Zunge zum hals
+
+<br>
+
+`es Liegt mir auf der Zunge`
+
+<br>
+
+`sich eher die Zunge abbeißen`
+auf Keinenn Preis/Fall etwas sagen / verraten
+
+<br>
+
+eine | lose              |                             | Zunge
+     | scharfe / schwere | behafste bemerkungen machen |
+     | schwere           | mit mühe sprechen           |
+
+<br>
+
+
 

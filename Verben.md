@@ -217,3 +217,6 @@ zusehen (bei)
 
 zweifeln (an)
 
+---
+
+zusammenfegen, zusammmenkehren

@@ -45,3 +45,8 @@ die Motte
 
 das Teufelkreis
 - Ein widerpassierendes irre
+
+der Zaurn | Zäurne
+- Gränzen aus metal staben
+
+
