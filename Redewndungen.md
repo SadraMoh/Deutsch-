@@ -245,5 +245,88 @@ eine | lose              |                             | Zunge
 
 <br>
 
+`in erscheinung treten`
+plötzlich widere in erscheinung treten
 
+<br>
+
+`aus der versenkung aufteachen`
+in der versenkung verschwinden
+
+<br>
+
+`es ist Gefahr im verzug`
+es droht gefahr
+- alle waren aufgeregt und unruhig jeder spürte dass gefahr im verzug war.
+
+<br>
+
+`alle viere von sich strecken`
+arme und beine [im liegen] strecken
+
+<br>
+
+`auf allen vieren`
+auf händn und füßen
+
+<br>
+
+`vier eckige augen bekcommen/kriegen`
+zu viel vor dem Fernseher sitzen
+
+<br>
+
+`die bucklige verwandschaften`
+ungeliebte verwandschaften
+
+<br>
+
+`da gibt es kein vertun`
+da gibt es kein zweifel
+- das war ein klarer elf meter, da gab es kein vertun!
+
+<br>
+
+`da hört sich doch verschiedenes aus`
+jemand ist viel zu unhöflich
+
+<br>
+
+`in verruf kommen/geraten`
+einen schlechten ruf beckommen
+
+<br>
+
+`jemanden etwas in vehf bringen`
+`jemandes namen in dem schmutz ziehen`
+
+<br>
+
+`außer Betracht fallen`
+
+<br>
+
+`Alte Ziege`
+!schimpfwort, benützt gegen den Älteren
+
+<br>
+
+`steinbrot`
+sehr trockenes Brot
+
+<br>
+
+`meine wenigkeit`
+`ihre höheit`
+
+<br>
+
+`Pechvogel`, `Glückpilze`
+
+<br>
+
+`Tante-Ema-Laden`
+Ein kleines Geschäft das Lebensmittel und andere tägliche Bedarfs anbietet.
+
+<br>
 

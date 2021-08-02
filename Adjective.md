@@ -6,21 +6,15 @@
 
 begeistert 
 
-<br>
-
 begeisterte Fans    
-
-<br>
 
 brav
 - das Anzug ist mir zu brav, ich will etwas lässiges
 
-<br>
-
 eher läger
 lässig
 
-<br>
-
 fein == weich
 
+obdachlos Ö:  unterstandslos
+- Jemand der keine Wohnung oder Stelle besitzt

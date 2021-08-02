@@ -40,3 +40,15 @@ Verwendet um auszudrücken dass die Quelle vom Geld seine Werte nicht verdorbt
 <br>
 
 `Niemand sitzt am höchsten`
+
+<br>
+
+`viele wenig machen ein viel`
+viele kleine teile summieren sich zu einer ansehnlichen Menge
+
+<br>
+
+`ein Spatz in der Hand ist besser als die Tabe auf dem Dach`
+
+<br>
+

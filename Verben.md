@@ -6,6 +6,7 @@
 
 - [`Aggressive Verben`](#aggressive-verben)
 - [`Verben mit festen Präpositionen`](#verben-mit-festen-präpositionen)
+- [`Gegenteile`](#gegenteile)
 
 ## Aggressive Verben
 
@@ -217,6 +218,14 @@ zusehen (bei)
 
 zweifeln (an)
 
+etwas befassen (mit)
+
 ---
 
 zusammenfegen, zusammmenkehren
+
+## Gegenteile
+
+abnehmen =/= zunehmen
+
+säen =/= ernten

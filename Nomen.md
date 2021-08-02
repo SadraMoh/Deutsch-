@@ -49,4 +49,5 @@ das Teufelkreis
 der Zaurn | Zäurne
 - Gränzen aus metal staben
 
-
+der Viehzüchter | Viehzüchter
+- Jemand der berüflich viehe beziehungsweise Tiere wie Schaffen und Kühe aufzieht
