@@ -197,8 +197,9 @@ das muss geändert werden, das kan nicht so bleiben
 
 <br>
 
-`zusammenpassen wie Tof und Deckel`
+`zusammenpassen wie Topf und Deckel`
 `zusammenpassen wie ein paar/ zwei alte Latschen`
+`da haben sich zwei gesucht und gefunden`
 
 <br>
 
@@ -329,4 +330,128 @@ sehr trockenes Brot
 Ein kleines Geschäft das Lebensmittel und andere tägliche Bedarfs anbietet.
 
 <br>
+
+`Alles fit im Schritt?`
+Frage nach der Wohlbefinden bekannten Person.
+- Alles in Ordnung?
+
+<br>
+
+`Das/Es wird sich alles finden`
+das wird sich stellen/klären.
+das wird sich alles in Ordnung kommen.
+
+<br>
+
+`Nun lass dir keine graue Haare wachsen`
+- Strenge dich nicht an, sei ruhig und locker.
+
+<br>
+
+`da haben sich zwei gesucht und gefunden`
+`Sie beide passen wie zwei Alte latschen`
+
+<br>
+
+`Wie finde ich das?`
+- Was soll ich jetzt tun?
+
+<br>
+
+`Einen Filmreis haben`
+Sich nicht mehr erinnern können wie es weiter geht.
+- Ich habe einen ganz schönen Filmreis an den Tag
+
+<br>
+
+`Wie figura zeigt`
+Wie man an diesem Beispiel sehen kann.
+Wie es alles scheint
+
+<br>
+
+`jemandem hinter die Fichte führen`
+jemanden täuschen.
+
+<br>
+
+`die feuerprobe bestehen`
+Sich zum erstenmal im harten Praxis ohne hilfe bewähren
+
+<br>
+
+`Klebrige/ Lange/ Krummer Finger haben`
+Die angewohnheit habe zu stehlen
+
+<br>
+
+`Fit wie ein Turnschuh`
+Gut zu Wege sein
+
+<br>
+
+`Einer Flasche den Hals Brechen`
+eine flasche öffnen, um es auszutrinken
+
+<br>
+
+`sich einen Flock ins Hemd machen`
+sich zieren
+
+<br>
+
+`Fix und Foxi` 
+`Fix und Vertig`
+völlig erschöpft sein
+
+<br>
+
+`Mit Fleiß`
+absichtlich, mit absicht
+
+<br>
+
+`sich ins einge Fleisch schneiden`
+sich selbst schaden
+
+<br>
+
+`Vom Fleisch[e] Fallen`
+Dünn und schlank werden, abmagern, abnehmen.
+
+<br>
+
+`Die Fleischtöpfe Ägyptens.`
+Das Leben im Wohlstand.
+- Sich nach den Fleischtöpfen Ägyptens zuruchsehnen
+
+<br>
+
+`Jemanden ärgert/ stört die Fliege an der Wand`
+Jemand wird leicht wütend
+Jemanden stört jede kleinigkeit
+
+<br>
+
+`Sein /Ihr eigen Fleisch und Blut sein`
+jemandes sohn/ tochter sein
+
+<br>
+
+`einen Floh im Ohr haben`
+`nich alle Tassen im Schrank haben`
+nicht Recht bei verstand sein
+
+<br>
+
+`Fluchen wie ine Bierkutscher`
+Sehr heftig fluchen, oder mit groben Worten
+
+<br>
+
+`Das ist der Fluch der bösentat`
+Das ist karma
+
+<br>
+
 

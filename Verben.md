@@ -222,6 +222,14 @@ etwas befassen (mit)
 
 ---
 
+sich zieren
+
+abmagern
+
+sich zehnen
+
+jammern = klagen
+
 zusammenfegen, zusammmenkehren
 
 ## Gegenteile

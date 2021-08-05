@@ -52,3 +52,12 @@ viele kleine teile summieren sich zu einer ansehnlichen Menge
 
 <br>
 
+`Ohne Fleiß kein Preis`
+`Kein Schmerz kein Gewinn`
+
+---
+
+## Ausrufe
+
+`Iggit`
+um auszudrucken das jemandem etwas ekelhaft/wiederlich fällt.
