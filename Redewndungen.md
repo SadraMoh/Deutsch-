@@ -54,7 +54,7 @@ Schertzlich nach jemanes Namen fragen
 <br>
 
 `Eulen nach Athen tragen`  
-Etwas zweckloses, sinnloses, nutzloses tun
+Etwas zweckloses, sinnloses, nutzloses, vergebliches tun
 
 <br>
 
@@ -454,4 +454,117 @@ Das ist karma
 
 <br>
 
+`Wissen, wo der Hammer hängt`
+`wissen wie die Hase läuft`
+sich genau auskennen in einer bestimmten Situation zurechtfinden
 
+<br>
+
+`Eine Schraube locker haben`
+Ein bisschen spinnen
+
+<br>
+
+`Nägel mit kopf machen`
+Etwas stets und oft zu Ende führen
+
+<br>
+
+`Den Nagel auf den Kopf treffen`
+Etwas Wesentliches erkennen
+
+<br>
+
+`Eine Löse Hand haben`
+Schnell und unüberlegt zuzuschlagen
+
+<br>
+
+`Eine Hand wäscht die andere`
+nach sich ziehen
+
+<br>
+
+`Viele H1nde machen der Arbeit schnell`
+
+<br>
+
+`Viele Hände machen die Arbeit schnell das Ende`
+
+<br>
+
+`Hand bieten`
+Hilfe bieten / leisten
+
+<br>
+
+`küss die Hand / Hände`
+an weibliche oder (seltends) an hoch gestellte männliche persone gerichteter grüßform
+
+<br>
+
+`Hand aufs Herz!`
+Sei Eherlich, sage Die Wahrheit
+
+<br>
+
+`Ehe man die Hand umdreht`
+im Nu, in einem Augenblick
+
+<br>
+
+`sich die Hände reiben`
+schadenfreude/ boshaftes Vergnügen empfinden/ fühlen/ spüren
+
+<br>
+
+`Haus und Hof`
+All jemandes Eigentum,
+grundbesitz jemandes
+
+<br>
+
+`aus der Haut fahren`
+wütend werden
+
+<br>
+
+`mit Haut und Haren` 
+ganz und gar, völlig, mit alle
+
+<br>
+
+ `Heia machen`
+(Kindersprach) schlafen
+
+`Aa machen`
+pissen
+
+`Bach machen, Bächlein machen`
+
+<br>
+
+`Ich will (Emil, Hans, Meier, ...) heißen wenn...`
+`wenn... heiße ich (Emil, Hans, Meier, ...)`
+
+<br>
+
+`Kein Held in etwas sein`
+etwas nicht gut können
+- Ihr Mann ist kein Held in einparken
+
+<br>
+
+`Ein schlag und du stehst im Hemd`
+eine Art bedrohung
+
+<br>
+
+`Kreuz und quer`
+durch und ...
+überall
+
+<br>
+
+`nicht den geringsten vorstellung haben`
+Keine Idee haben

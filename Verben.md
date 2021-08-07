@@ -230,6 +230,8 @@ sich zehnen
 
 jammern = klagen
 
+halten -> lang, anhalten -> kurz
+
 zusammenfegen, zusammmenkehren
 
 ## Gegenteile
