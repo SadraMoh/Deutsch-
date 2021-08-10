@@ -18,3 +18,5 @@ fein == weich
 
 obdachlos Ö:  unterstandslos
 - Jemand der keine Wohnung oder Stelle besitzt
+
+sanft =/= grob =/= Glatt

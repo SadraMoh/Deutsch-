@@ -234,6 +234,10 @@ halten -> lang, anhalten -> kurz
 
 zusammenfegen, zusammmenkehren
 
+entfernen
+
+verführen
+
 ## Gegenteile
 
 abnehmen =/= zunehmen

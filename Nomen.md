@@ -51,3 +51,7 @@ der Zaurn | Zäurne
 
 der Viehzüchter | Viehzüchter
 - Jemand der berüflich viehe beziehungsweise Tiere wie Schaffen und Kühe aufzieht
+
+der Strauß | Sträuße
+- Eine Art Vogel der nicht fliegen kann, sehr schnell läuft und einen ziemlich großen Körper hat
+

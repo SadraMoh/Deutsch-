@@ -568,3 +568,134 @@ durch und ...
 
 `nicht den geringsten vorstellung haben`
 Keine Idee haben
+
+<br>
+
+`über die Bühne gehen`
+in einer bestimmten weise verlaufen, vor sich gehen
+
+<br>
+
+`von der Bühne abtrete/ verschwinden`
+`die Bühne verlassen`
+aus dem Blickpunkt der öffentlichkeit verschwinden
+
+<br>
+
+`von der Bühne des Lebens abtreten`
+sterben
+
+<br>
+
+`für ein Butterbrot`
+für einen Lächerlichen preis
+
+<br>
+
+`Ran an die Buletten`
+Aufforderung zu Ermunterung
+
+<br>
+
+`Etwas über die ühne bringen/ kriegen`
+etwas erfolgreich durchführen
+
+<br>
+
+`die Brühe ist oft teurer als der Braten`
+
+<br>
+
+`auf etwas bock haben`
+
+<br>
+
+`einen bock haben`
+trotzig sein
+- wenn unser junge einen Bock hat lassen wir ihn gehen
+
+<br>
+
+`einen Bock shießen` 
+einen groben Fehler machen
+
+<br>
+
+`den Bock zum Gärtner machen`
+
+<br>
+
+`den Bock melken`
+etwas vergebliches tun
+
+<br>
+
+`etwas in Blut haben`
+eine angeborene begabung für etwas haben
+
+<br>
+
+`blondes Gift`
+verführerische Blondinne
+
+<br>
+
+`die Zeit der Dämmerung`
+früh am Morgen
+
+<br>
+
+`Blaue Bohnen`
+gewehrkugeln
+
+<br>
+
+`ins Blaue [hinein]`
+ohne Klares Ziel
+
+<br>
+
+`das Blaue im Himmel [herrunter] reden`
+pausenlos, ständig, viel Reden
+
+<br>
+
+`durch die Blume`
+jemandem etwas verhült, andeutungsweise sagen
+
+<br>
+
+`Blink und Blank`
+vor sauberkeit glänzend
+
+<br>
+
+`wie der BLitz`
+blitzartig
+
+<br>
+
+`Blauer Brief`
+mahbrief, kündigungs brief
+
+<br>
+
+`Blaue Junge, Jungs` 
+Seemänner 
+
+<br>
+
+`Blauer Montag`
+Montag an dem man der Arbeit fernbliebt
+
+<br>
+
+`Das Blaue Regal`
+Meer als Ort der abfallentsorgung von schif aus
+
+<br>
+
+`die Blaue Stunde` 
+die Zeit der Dammerung
+
+<br>
