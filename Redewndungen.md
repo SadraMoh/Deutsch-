@@ -2,15 +2,15 @@
 
 ### Hier befinden sich sinnvolle Redewenungen die ich je gelernt habe
 
-## Begriffsklärung von den Terme Sprichwort und Redewendung  / ausdrücke
+## Begriffsklärung von den Terme Sprichwort und Redewendung / ausdrücke
 
 Mit `Redewendungen` und `ausdrücken` kann man Teile vom Satz reltiv zu dem Kontext ändern
-`Sprichworte` sagt man wie sie sind  
+`Sprichworte` sagt man wie sie sind
 
 ## Inhalt
 
 - [`Wildkarten`](#Wildkarten)
-- [`Gemeinsame redewendungen  `](#gemeinsame-redewendungen)
+- [`Gemeinsame redewendungen `](#gemeinsame-redewendungen)
 
 <br>
 
@@ -76,7 +76,7 @@ Jemandem sein gränzen zeigen
 `Es stammt aus Adam und Eva!`
 Es ist sehr alt, es ist antique
 
-### Gemeinsame redewendungen  
+### Gemeinsame redewendungen
 
 <br>
 
@@ -150,18 +150,21 @@ Schlißlich, am Ende
 
 `Nicht aus Holz sein`
 gefühlen haben
-- Ich bin doch nicht aus Holz! 
+
+- Ich bin doch nicht aus Holz!
 
 <br>
 
 `Noch gut zu wege sein`
 noch rüstig sein
+
 - Obwohl seine mutter war schon über 80, sie war noch gut zu wege.
 
 <br>
 
 `Sich keinen zwang ang tun`
 sich ungezwungen verhalten
+
 - Darf ich meine Jacke ausziehen? > Ja tu doch dir keinen zwang
 
 <br>
@@ -178,11 +181,12 @@ jemanden zu lachen bringen
 
 `wie kein zweiter`
 unnachahmlich [gut , schnell]
+
 - Matte Probleme löst er wie kein zweiter
 
 <br>
 
-`Offen zu tage liegen` 
+`Offen zu tage liegen`
 deutlich erkennbar sein
 
 <br>
@@ -220,13 +224,15 @@ mit jemandem aus kommen, sich mit jemandem einig werden
 
 `jemanden die Zunge lösen / lockern`
 jemanden gesprächig machen
-- Zwei, Drei Hundert Euroscheinen würde hir die zunge Lösen 
+
+- Zwei, Drei Hundert Euroscheinen würde hir die zunge Lösen
 
 <br>
 
 `jemandem klebt die Zung am Gaumen`
 `jemandem h1ng die Zunge zum Hals[e] heraus`
 jemand hat großen durst
+
 - Nach zwei Stunden Training hing uns allen die Zunge zum hals
 
 <br>
@@ -240,9 +246,9 @@ auf Keinenn Preis/Fall etwas sagen / verraten
 
 <br>
 
-eine | lose              |                             | Zunge
-     | scharfe / schwere | behafste bemerkungen machen |
-     | schwere           | mit mühe sprechen           |
+eine | lose | | Zunge
+| scharfe / schwere | behafste bemerkungen machen |
+| schwere | mit mühe sprechen |
 
 <br>
 
@@ -258,6 +264,7 @@ in der versenkung verschwinden
 
 `es ist Gefahr im verzug`
 es droht gefahr
+
 - alle waren aufgeregt und unruhig jeder spürte dass gefahr im verzug war.
 
 <br>
@@ -284,6 +291,7 @@ ungeliebte verwandschaften
 
 `da gibt es kein vertun`
 da gibt es kein zweifel
+
 - das war ein klarer elf meter, da gab es kein vertun!
 
 <br>
@@ -333,6 +341,7 @@ Ein kleines Geschäft das Lebensmittel und andere tägliche Bedarfs anbietet.
 
 `Alles fit im Schritt?`
 Frage nach der Wohlbefinden bekannten Person.
+
 - Alles in Ordnung?
 
 <br>
@@ -344,6 +353,7 @@ das wird sich alles in Ordnung kommen.
 <br>
 
 `Nun lass dir keine graue Haare wachsen`
+
 - Strenge dich nicht an, sei ruhig und locker.
 
 <br>
@@ -354,12 +364,14 @@ das wird sich alles in Ordnung kommen.
 <br>
 
 `Wie finde ich das?`
+
 - Was soll ich jetzt tun?
 
 <br>
 
 `Einen Filmreis haben`
 Sich nicht mehr erinnern können wie es weiter geht.
+
 - Ich habe einen ganz schönen Filmreis an den Tag
 
 <br>
@@ -400,7 +412,7 @@ sich zieren
 
 <br>
 
-`Fix und Foxi` 
+`Fix und Foxi`
 `Fix und Vertig`
 völlig erschöpft sein
 
@@ -423,6 +435,7 @@ Dünn und schlank werden, abmagern, abnehmen.
 
 `Die Fleischtöpfe Ägyptens.`
 Das Leben im Wohlstand.
+
 - Sich nach den Fleischtöpfen Ägyptens zuruchsehnen
 
 <br>
@@ -529,12 +542,12 @@ wütend werden
 
 <br>
 
-`mit Haut und Haren` 
+`mit Haut und Haren`
 ganz und gar, völlig, mit alle
 
 <br>
 
- `Heia machen`
+`Heia machen`
 (Kindersprach) schlafen
 
 `Aa machen`
@@ -551,6 +564,7 @@ pissen
 
 `Kein Held in etwas sein`
 etwas nicht gut können
+
 - Ihr Mann ist kein Held in einparken
 
 <br>
@@ -612,11 +626,12 @@ etwas erfolgreich durchführen
 
 `einen bock haben`
 trotzig sein
+
 - wenn unser junge einen Bock hat lassen wir ihn gehen
 
 <br>
 
-`einen Bock shießen` 
+`einen Bock shießen`
 einen groben Fehler machen
 
 <br>
@@ -680,8 +695,8 @@ mahbrief, kündigungs brief
 
 <br>
 
-`Blaue Junge, Jungs` 
-Seemänner 
+`Blaue Junge, Jungs`
+Seemänner
 
 <br>
 
@@ -695,7 +710,155 @@ Meer als Ort der abfallentsorgung von schif aus
 
 <br>
 
-`die Blaue Stunde` 
+`die Blaue Stunde`
 die Zeit der Dammerung
 
 <br>
+
+`Alle Achtung`
+verdiente Anerkenung
+gut gemacht
+
+<br>
+
+`Der Alte Adam`
+alte /schwächen gewöhnheiten jemandes
+
+<br>
+
+`der alten Adam ausziehen`
+seiner Fehler ablegen
+
+<br>
+
+`seit Adams zeiten/ tagen`
+solange man denken kann
+
+<br>
+
+`jemandes Aktie steigt/ fällt`
+jemandes austehten auf erfolg werden besser oder schlechter
+
+<br>
+
+`in voller Aktion`
+in tätigkeit, betrieb
+
+<br>
+
+`Ägyptisches Finsternis`
+starken tiefste dunkelheit
+
+<br>
+
+`Alles in Allem`
+insgesammt, zusammen genommen, im Ganzen gesehen
+
+<br>
+
+`Alles und jedes`
+jegliches ohne ausnahme
+
+<br>
+
+`kein Aas, keine sau`
+niemand
+
+<br>
+
+`von allein`
+`von sich aus`
+automatisch
+
+<br>
+
+`allzuviel ist ungesund`
+man soll nichts übertreiben
+
+<br>
+
+`das ist [doch] [immer/ja] allerhände furn Grosche`
+das ist unerhört peinlich und untragbar
+
+<br>
+
+`Alte herrschaften`
+Eltern
+
+<br>
+
+`Alter Herr`
+
+- Vater,
+- spieler über 32 jahren,
+- ehemalig aktives mitglied einer verein/ verbindung
+
+<br>
+
+`wie die alten sungen, so zwitschern [auch] die jungen`
+nach sprechen
+
+<br>
+
+`seit alters`
+`von alters her`
+`vor alters`
+seit langer zeit
+
+<br>
+
+`sein Amen zu etwas geben`
+seine zustimmung zu etwas geben
+
+<br>
+
+`Amt und würden`
+eine Feste offiziele stellung
+
+<br>
+
+`von Amts wegen`
+aus berüflichen Gründen
+
+<br>
+
+`das kannst du annehmen`
+das ist sicher
+
+<br>
+
+`in die Annale [der Geschichte] eingehen`
+unvergessen bleiben
+- Dieser Tat wird in die Annalen eingehen
+
+<br>
+
+`den ansehen nach`
+anscheinend
+
+<br>
+
+`zur anwendung kommen`
+angewendet werden
+
+<br>
+
+`etwas zur/ in Anwendung bringen`
+
+<br>
+
+`der Apfel fällt nicht weit von stamm/ baum`
+
+<br>
+
+`in den sauren Apfel beißen`
+etwas unangenehmes notgedrungen tun
+
+<br>
+
+`Der Appetit kommt mit dem essen`
+wenn man erst einmal [mit etwas] angefangen hat, kommt die lust dazu
+
+<br>
+
+`Arbeit schändet nicht`
