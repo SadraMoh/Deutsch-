@@ -1,6 +1,6 @@
-# **Sprechworte**
+# **Sprichworte**
 
-### Hier befinden sich sinnvolle Sprechworte die ich je gelernt habe
+### Hier befinden sich sinnvolle Sprechworte die ich bisher gelernt habe
 
 ## Begriffsklärung von den Terme Sprichwort und Redewendung  / ausdrücke
 
